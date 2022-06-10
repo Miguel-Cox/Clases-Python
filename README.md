@@ -3,8 +3,8 @@ Este repositorio esta enfocado en almacenar y registrar clases del lenguaje de p
 
 Para ejecutar el codigo se necesita de tener instalado la Jupyter Notebook:
 
-''' pip install jupyterlab '''
+``` pip install jupyterlab ```
 
 El comando de ejecución es:
 
-''' jupyter lab '''
+``` jupyter lab ```
